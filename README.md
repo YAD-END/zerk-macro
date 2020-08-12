@@ -5,7 +5,7 @@
 
 /8 zerkcast [miliseconds] - interval between skills sends to server (default - 15)
 
-Fishing Bait to pause/continue Unleash.Drag it while in unleash in your unleash skill panel.
+Fishing Bait to pause/continue Unleash. Drag it while in unleash in your unleash skill panel.
 Bait I, II, III, IV, and V
 
 ![alt text](https://raw.githubusercontent.com/KKonaW/zerk-macro/master/11.png)
