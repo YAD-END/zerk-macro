@@ -7,6 +7,6 @@
 		"niceName": "zerk-macro",
         "guiName": "zerk-macro"
 		},
-	"servers": ["network"],
-	"supportUrl": "network"
+	"servers": ["https://raw.githubusercontent.com/KKonaW/zerk-macro/master/"],
+	"supportUrl": "https://discord.gg/dUNDDtw"
 }
