@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": true,
+	"name": "zerk-macro",
+	"author": "Hellraiser",
+	"description": "Bernie-2020",
+	"options": { 
+		"niceName": "zerk-macro",
+        "guiName": "zerk-macro"
+		},
+	"servers": ["network"],
+	"supportUrl": "network"
+}
