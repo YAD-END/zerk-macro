@@ -29,7 +29,7 @@ module.exports = function ZerkHue(dispatch) {
 	var start;//TIME
 	var elapsed;//TIME
 	var unleash = false;
-    dispatch.command.add('zerk', () => {
+    dispatch.command.add('zerk1', () => {
         enabled = !enabled;
         dispatch.command.message(`Zerk skript: ${enabled}`);
     });
