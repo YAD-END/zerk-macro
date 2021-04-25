@@ -1,3 +1,5 @@
+//busa
+
 const DEFAULT_HOOK_SETTINGS = {order: -1000000, filter: {fake: false}};
 const JOB_ZERK = 3;
 //test
