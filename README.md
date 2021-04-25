@@ -1,7 +1,7 @@
 # zerk-macro
 Not compatible with Bern Script
 
-Not recommendable to use with f2p SP
+Not recommendable with f2p SP
 # commands:
 
 
